@@ -1,11 +1,5 @@
 # photoMapping
 
-Alex Bodian
-Final Project Report
-Mapping Images
-
-
-
 The purpose of this application is to allow an investigator or any other person to have the ability to easily generate both a list of all the images in a directory with their timestamp, latitude, longitude, and the time zone of the image and then map all these image so that have a visual representation of the locations in which these images were taken.
 
 In order to use this application, you first must have python3 install on your environment as well as the following libraries:
