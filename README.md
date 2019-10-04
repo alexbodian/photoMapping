@@ -12,7 +12,7 @@ pandas
 timezonefinder 
 pytz
 
-If you have installed all the libraries above and you are still missing the appropriate libraries to run the script the environment in which you are running the script should inform you of what additional libraries, you are lacking for the script. Also sometime if you get an error when installing the libraries on a unix environment you may have to use sudo to install the library.
+If you have installed all the libraries above and you are still missing the appropriate libraries to run the script the environment in which you are running the script should inform you of what additional libraries, you are lacking for the script. Also sometimes if you get an error when installing the libraries on a unix environment you may have to use sudo to install the library.
 
 To use the script, you must run the script from the same folder/directory of the photos you are trying to map. If you attempt to run the script and their either are no images within the folder or the images you have provided do not have any gps data the program will inform you of this and will not generate a map or timestamp text file. 
 
